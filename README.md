@@ -6,7 +6,9 @@ I'm a passionate Software Developer with a strong focus on Java, Spring Boot, an
 
 Contact with me:
 
-[![](https://github.com/DiegoParula/DiegoParula/blob/main/317725_linkedin_social_icon%20(1).png)](www.linkedin.com/in/diego-parula)
+<a href="https://www.linkedin.com/in/diego-parula">
+  <img src="https://github.com/DiegoParula/DiegoParula/blob/main/317725_linkedin_social_icon%20(1).png" alt="LinkedIn Profile" width="48" height="48">
+</a>
 
 I have worked with technologies such as:
 
